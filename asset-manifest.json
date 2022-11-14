@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Landmarks/static/css/main.c5b5cbdf.css",
+    "main.js": "/Landmarks/static/js/main.d97b3455.js",
+    "static/js/787.293c2eec.chunk.js": "/Landmarks/static/js/787.293c2eec.chunk.js",
+    "index.html": "/Landmarks/index.html",
+    "main.c5b5cbdf.css.map": "/Landmarks/static/css/main.c5b5cbdf.css.map",
+    "main.d97b3455.js.map": "/Landmarks/static/js/main.d97b3455.js.map",
+    "787.293c2eec.chunk.js.map": "/Landmarks/static/js/787.293c2eec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b5cbdf.css",
+    "static/js/main.d97b3455.js"
+  ]
+}
