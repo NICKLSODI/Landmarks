@@ -5,7 +5,7 @@ function MyBar() {
   return (
     <>
       <ul>
-        <li>NICKLS</li>
+        <li><a href="https://nicklsodi.github.io/Landmarks/">NICKLS</a></li>
       </ul>
     </>
   )
